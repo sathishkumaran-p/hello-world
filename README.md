@@ -1,2 +1,8 @@
 # hello-world
-This is my first GitHub repository for learning
+
+Hi there,
+
+This is a learning course which is edided in reamme-edits branch.
+
+Thanks,
+Sathish
