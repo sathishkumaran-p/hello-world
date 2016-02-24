@@ -2,7 +2,7 @@
 
 Hi there,
 
-This is a learning course which is edided in reamme-edits branch.
+This is a learning course which is edided in readme-edits branch.
 
 Thanks,
 Sathish
